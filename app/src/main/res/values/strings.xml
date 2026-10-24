@@ -19,4 +19,6 @@
     <string name="err_msv_sai">Mã sinh viên gồm đúng 13 chữ số</string>
     <string name="err_lop_rong">Lớp không được để trống</string>
     <string name="err_lop_sai">Lớp gồm 3 đến 20 ký tự: chữ, số, dấu - . _</string>
+    <string name="msg_dang_ki_thanh_cong">Đăng kí thành công!</string>
+    <string name="action_xem_chi_tiet">XEM CHI TIẾT</string>
 </resources>
