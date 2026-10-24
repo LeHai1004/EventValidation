@@ -21,4 +21,6 @@
     <string name="err_lop_sai">Lớp gồm 3 đến 20 ký tự: chữ, số, dấu - . _</string>
     <string name="msg_dang_ki_thanh_cong">Đăng kí thành công!</string>
     <string name="action_xem_chi_tiet">XEM CHI TIẾT</string>
+    <string name="detail_title">Thông tin đăng kí</string>
+    <string name="btn_ve_dang_ki">Quay lại đăng kí</string>
 </resources>
