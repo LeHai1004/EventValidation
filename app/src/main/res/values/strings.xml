@@ -8,4 +8,15 @@
     <string name="hint_lop">Lớp</string>
     <string name="btn_dang_ki">Đăng kí</string>
     <string name="btn_sang_chi_tiet">Xem chi tiết</string>
+    <string name="err_ho_ten_rong">Họ tên không được để trống</string>
+    <string name="err_ho_ten_ky_tu">Họ tên chỉ gồm chữ cái và khoảng trắng</string>
+    <string name="err_ho_ten_thieu_tu">Nhập đầy đủ họ và tên (tối thiểu 2 từ)</string>
+    <string name="err_email_rong">Email không được để trống</string>
+    <string name="err_email_sai">Email không đúng định dạng</string>
+    <string name="err_sdt_rong">Số điện thoại không được để trống</string>
+    <string name="err_sdt_sai">SĐT gồm 10 số, bắt đầu bằng 03/05/07/08/09</string>
+    <string name="err_msv_rong">Mã sinh viên không được để trống</string>
+    <string name="err_msv_sai">Mã sinh viên chỉ gồm 8 đến 12 chữ số</string>
+    <string name="err_lop_rong">Lớp không được để trống</string>
+    <string name="err_lop_sai">Lớp gồm 3 đến 20 ký tự: chữ, số, dấu - . _</string>
 </resources>
