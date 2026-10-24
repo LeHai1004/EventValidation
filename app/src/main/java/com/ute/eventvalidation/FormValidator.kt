@@ -7,7 +7,7 @@ object FormValidator {
 
     private val REGEX_CHU_CAI = Regex("^[\\p{L} ]+$")
     private val REGEX_SDT = Regex("^(03|05|07|08|09)\\d{8}$")
-    private val REGEX_MSV = Regex("^\\d{8,12}$")
+    private val REGEX_MSV = Regex("^\\d{13}$")
     private val REGEX_LOP = Regex("^[A-Za-z0-9._-]{3,20}$")
 
     // Trả về id chuỗi lỗi, hoặc null nếu dữ liệu hợp lệ
