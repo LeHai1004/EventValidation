@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EventValidation</string>
+    <string name="register_title">Đăng kí sinh viên</string>
+    <string name="hint_ho_ten">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_sdt">Số điện thoại</string>
+    <string name="hint_msv">Mã sinh viên</string>
+    <string name="hint_lop">Lớp</string>
+    <string name="btn_dang_ki">Đăng kí</string>
+    <string name="btn_sang_chi_tiet">Xem chi tiết</string>
 </resources>
